@@ -1,4 +1,4 @@
-# Student Dataset Cleaning and Analysis
+# Student Dataset Cleaning
 
 Objective: Clean and analyze a student dataset to extract meaningful insights regarding quiz, exam, and homework scores.
 
